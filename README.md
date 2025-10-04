@@ -132,11 +132,3 @@ code .
 
 - The small CNN shown should reach reasonable accuracy (e.g., 60-75% depending on training hyperparameters and epochs). Exact results depend on training time and data augmentation.
 
-## Final checklist
-
-- [x] Explain the notebook structure and sequence
-- [x] Explain the visualizations present and suggested improvements
-- [x] Point out bugs and recommend fixes
-
-If you'd like, I can:
-- Fix the notebook issues (labels scaling & output activations), add better visualizations (image grid, class distribution), and add a `requirements.txt` plus a short test script to validate the models. Just tell me which improvements you'd like me to implement next.
